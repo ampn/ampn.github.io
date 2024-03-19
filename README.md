@@ -1,3 +1,3 @@
-# 个人首页
+# Personal Home Page
 
-静态首页，导航页面
+static page for my blog
